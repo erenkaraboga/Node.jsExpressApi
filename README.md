@@ -1,3 +1,4 @@
 # Products RESTFUL API
-# JWT
-# MongoDb
+# *** Features used***
+    # JWT
+    # MongoDb
