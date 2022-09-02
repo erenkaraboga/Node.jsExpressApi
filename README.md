@@ -2,3 +2,5 @@
 # *** Features used***
     # JWT
     # MongoDb
+    # nodemon
+    # dotenv
